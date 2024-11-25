@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/css/main.f855e6bc.css",
+    "main.js": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/js/main.385c695b.js",
+    "static/media/banner-v1.png": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/media/banner-v1.2ace947693063a4e58f0.png",
+    "static/media/hero2.png": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/media/hero2.8e4524ac8fc19597d48e.png",
+    "static/media/biglogo.png": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/media/biglogo.fea3ffb2d277af501a0d.png",
+    "static/media/carousel_4.png": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/media/carousel_4.bb57199074d75d98d802.png",
+    "static/media/banner2.png": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/media/banner2.7edfba6d93d268af22df.png",
+    "static/media/carousel_1.jpeg": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/media/carousel_1.c3d6e3d2cbb0edc6e561.jpeg",
+    "static/media/carousel_2.jpg": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/media/carousel_2.d4cf371945e49d51397b.jpg",
+    "static/media/carousel_3.jpg": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/media/carousel_3.c97617ca76774bcbc5af.jpg",
+    "static/media/dota_footer_logo.png": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/media/dota_footer_logo.2e803101707b3bf3d76b.png",
+    "index.html": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/index.html",
+    "static/media/arrow_up.svg": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/media/arrow_up.e3a85c9eaac6b722fa7e3f808321fc40.svg",
+    "static/media/carousel_pagination.svg": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/media/carousel_pagination.5592d9cd3f79afde6619ced7d1e7387f.svg",
+    "main.f855e6bc.css.map": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/css/main.f855e6bc.css.map",
+    "main.385c695b.js.map": "/Suleiman700/ReactJS-Fall-Guys-Landing-Page/static/js/main.385c695b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.385c695b.js"
+  ]
+}
